@@ -6,3 +6,6 @@
 
                                   Saving foles in different extensions
 ![image](https://github.com/Jekonava/Screen-Recorder/assets/168346725/bea3b4d0-8606-4fb3-ab9a-c8ec75895adc)
+
+                                      Example:Gif extensions
+![vid-1716660701011](https://github.com/Jekonava/Screen-Recorder/assets/168346725/095f133d-fc36-4df8-8e50-93842702664e)
